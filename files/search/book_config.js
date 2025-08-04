@@ -1,1 +1,1 @@
-var textForPages =["","","","",""]
+var textForPages =["","\u201cReconozcan y consideren seriamente hoy que el Se\u00f1or es Dios arriba en el cielo y abajo en la tierra; no hay otro. 40 Obedezcan sus estatutos y mandamientos\u2026\u201dDeuteronomio4:39-40","\u201cTherefore, know this day, and consideritin your heart, thattheLORDHimselfisGod in heaven above and on the earth beneath;there isno other.40You shall therefore keep His statutes and His commandments\u2026\u201dDeuteronomy 4:39-40","","","",""]
